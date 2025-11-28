@@ -1,3 +1,3 @@
 Welcome...
 
-[![GitHub Stats](https://github-readme-stats-cncpomper-weld.vercel.app/api?username=cncPomper&show_icons=true&theme=radical)](https://github.com/cncPomper)
+[![GitHub Stats](https://github-readme-stats-cncpomper-weld.vercel.app/api?username=cncpomper&show_icons=true&theme=merko)](https://github.com/cncPomper)
