@@ -1,4 +1,8 @@
-Welcome...
+Welcome, I'm Piotr <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d57f216e-5090-43e8-97c4-6846690b4fe7" />
+
+
+## About me
+* I am currently a Master's student at the Warsaw University of Technology
 
 ## Current skills
 
