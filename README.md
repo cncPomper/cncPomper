@@ -4,6 +4,19 @@ Welcome, I'm Piotr <img width="50" height="50" alt="image" src="https://github.c
 ## About me
 * I am currently a Master's student at the Warsaw University of Technology
 
+## Technologies I used
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Frameworks
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ## Current skills
 
 ![Top Langs](https://github-readme-stats-cncpomper-weld.vercel.app/api/top-langs/?username=cncpomper&layout=compact&langs_count=10&hide=jupyter%20notebook)
