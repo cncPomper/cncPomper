@@ -2,7 +2,7 @@ Welcome, I'm Piotr <img width="50" height="50" alt="image" src="https://github.c
 
 
 ## About me
-* I am currently a Master's student at the Warsaw University of Technology
+* I am currently a Master's student at the Warsaw University of Technology. My thesis is about "Recognition of synthetic audio materials".
 
 ## Technologies I used
 
