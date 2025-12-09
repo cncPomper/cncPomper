@@ -4,6 +4,10 @@ Welcome, I'm Piotr <img width="50" height="50" alt="image" src="https://github.c
 ## About me
 * I am currently a Master's student at the Warsaw University of Technology. My thesis is about "Recognition of synthetic audio materials".
 
+## Learning using platforms like
+
+[![](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/piotrkitowski)
+
 ## Technologies I used
 
 ### Languages
@@ -26,7 +30,7 @@ Welcome, I'm Piotr <img width="50" height="50" alt="image" src="https://github.c
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## DB
+### DB
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
