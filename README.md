@@ -41,6 +41,7 @@ Welcome, I'm Piotr <img width="50" height="50" alt="image" src="https://github.c
 ### Cloud
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### ML/DL
 
