@@ -56,6 +56,10 @@ Welcome, I'm Piotr <img width="50" height="50" alt="image" src="https://github.c
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
 
+### Learning about
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 ## Current skills
 
 ![Top Langs](https://github-readme-stats-cncpomper-weld.vercel.app/api/top-langs/?username=cncpomper&layout=compact&langs_count=10&hide=jupyter%20notebook)
