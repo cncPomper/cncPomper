@@ -2,7 +2,7 @@ Welcome, I'm Piotr <img width="50" height="50" alt="image" src="https://github.c
 
 
 ## About me
-* I am currently a Master's student at the Warsaw University of Technology. My thesis is about "Recognition of synthetic audio materials".
+* I am a 6th-year student in the integrated Bachelor’s-Master’s program at the Warsaw University of Technology, currently completing my Master’s thesis on the "Recognition of synthetic audio materials".
 * My CV is [here](experience/CV_Piotr_Kitlowski.pdf)
 
 ## Learning using platforms like
