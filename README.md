@@ -12,6 +12,11 @@ Welcome, I'm Piotr <img width="50" height="50" alt="image" src="https://github.c
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/piotr_kitlowski)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/pkitlo/)
 
+## Stats
+
+![GitHub followers](https://img.shields.io/github/followers/cncPomper)
+
+
 ## Technologies I used
 
 ### Languages
