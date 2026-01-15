@@ -27,3 +27,11 @@ def combine(nums, k):
 
     backtrack(0, [])
     return result
+
+# Test cases
+if __name__ == "__main__":
+    nums = [1, 2, 3]
+    print("Permutations of", nums, ":", permute(nums))
+
+    k = 2
+    print("Combinations of", nums, "taken", k, "at a time:", combine(nums, k))
