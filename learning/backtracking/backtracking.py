@@ -12,3 +12,18 @@ def permute(nums):
     result = []
     backtrack(0)
     return result
+
+# Generate combinations of k elements from a list using backtracking
+def combine(nums, k):
+    result = []
+    def backtrack(start, path):
+        if len(path) == k:
+            result.append(path[:])
+            return
+        for i in range(start, len(nums)):
+            path.append(nums[i])
+            backtrack(i + 1, path)
+            path.pop()  # Backtrack
+
+    backtrack(0, [])
+    return result
