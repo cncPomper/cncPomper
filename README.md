@@ -4,7 +4,7 @@ Welcome, I'm Piotr <img width="50" height="50" alt="image" src="https://github.c
 ## About me
 * I am a 6th-year student in the integrated Bachelor’s-Master’s program at the Warsaw University of Technology, currently completing my Master’s thesis on the "Recognition of synthetic audio materials".
 * Bringing 15 years of experience as a competitive water polo player, which has instilled a deep understanding of collaboration, strategic planning, and perseverance-qualities I apply to both team projects and individual challenges.
-* My CV is [here](experience/CV_Piotr_Kitlowski.pdf)
+* My CV is [here](experience/CV.pdf)
 
 ## Learning using platforms like
 
